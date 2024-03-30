@@ -52,3 +52,10 @@ margin-top: 5%;}
 text-decoration: none;}
 
 #moj-rad a:hover{color:darkslategray;}
+
+#kontaktiraj-me{background-color: rgb(238, 255, 245);
+padding:6%;}
+
+.kontakti{padding-left: 3%;
+font-size: 0.9rem;
+color: rgb(38, 38, 38);}
